@@ -1,0 +1,41 @@
+@import url('navbar/navbar.css');
+@import url('intro/intro.css');
+@import url('footer/footer.css');
+
+
+*,
+*:before,
+*:after{
+    box-sizing: border-box;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    /* border: 2px solid red; */
+
+}
+.header{
+    margin-top: 22px;
+}
+.header__container__inner{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid #A6A6A6;
+    padding: 22px 0;
+}
+.download__logos{
+    display: inline-block;
+   
+}
+
+
+
+

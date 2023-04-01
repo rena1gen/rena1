@@ -1,0 +1,46 @@
+
+.intro__container{
+    width: 1440px;
+    margin: 0 auto;
+    padding-top: 150px;
+    padding-left: 295px;
+
+}
+.intro__title
+{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 72px;
+    line-height: 98px;
+/* or 136% */
+}
+.intro__text
+{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+
+
+
+
+}
+.intro__text__btn{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    background-color: #8C30F5;
+    text-align: center;
+    display: inline-block;
+    border-radius: 8px;
+    padding: 16px 35px;
+    color: #ffffff;
+    margin-top: 36px;
+}
+.intro__container
+{
+    display: flex;
+}

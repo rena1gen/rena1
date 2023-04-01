@@ -1,0 +1,13 @@
+.footer__nav__element{
+    margin-left: 32px;
+}
+.footer__container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:#0B0D17;
+    color: #D9DBE1;
+    margin-top: 210px;
+    height: 69px;
+    padding: 22px 0;
+}
